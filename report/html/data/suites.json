@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts.test_display",
+    "children" : [ {
+      "name" : "TestDisplay.test_mobile_display_input",
+      "uid" : "981b9629f31d732e",
+      "parentUid" : "ab60e7ae472db6e6a740fc30b85d8161",
+      "status" : "broken",
+      "time" : {
+        "start" : 1530177910421,
+        "stop" : 1530177967515,
+        "duration" : 57094
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ab60e7ae472db6e6a740fc30b85d8161"
+  } ]
+}

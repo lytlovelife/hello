@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "xhhdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "4287-MainThread",
+      "children" : [ {
+        "name" : "TestDisplay.test_mobile_display_input",
+        "uid" : "981b9629f31d732e",
+        "parentUid" : "7ffd5807806d40d84a68d8e36b5eb9f0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1530177910421,
+          "stop" : 1530177967515,
+          "duration" : 57094
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7ffd5807806d40d84a68d8e36b5eb9f0"
+    } ],
+    "uid" : "011931c70b90827bcafbf4a25aa875db"
+  } ]
+}
